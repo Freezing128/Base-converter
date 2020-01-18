@@ -118,7 +118,6 @@ void decimalToBaseN ( char * n1, int base, char * n2 )
 */
 int convertNumbers ( char * n1, char * n2, int b1, int b2 )
 {
-  char number [MAX_LENGTH];
   if ( b1 == b2 )
     return 0;
   if ( b1 == 10 )
