@@ -1,4 +1,4 @@
-# Base-converter
+# Base converter
 [C] Base converter (2 - 36)
 
 Simple program that converts given number of base X to base Y.
